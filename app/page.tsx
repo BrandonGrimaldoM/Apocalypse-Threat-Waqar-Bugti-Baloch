@@ -32,7 +32,7 @@ export default function Home() {
         </div>
       ) : (
         <>
-          <div className="bg-[url('/images/background.png')] bg-cover absolute z-0 w-screen h-full scale-150 bg-center "></div>
+          <div className="bg-[url('/images/background.jpg')] bg-cover absolute z-0 w-screen h-full bg-center "></div>
 
           <div className="flex">
             <section className="w-full overflow-hidden relative flex justify-center h-[1080px]">
