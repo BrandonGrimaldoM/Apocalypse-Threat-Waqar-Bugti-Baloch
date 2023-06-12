@@ -2,7 +2,7 @@
 
 This template was created using the Waqar Bugti Baloch design in figma.
 
-https://learn-and-grow.vercel.app/
+https://apocalypse-threat.vercel.app/
 
 ![Template](https://github.com/BrandonGrimaldoM/Apocalypse-Threat-Waqar-Bugti-Baloch/blob/master/zombies.png)]
 
